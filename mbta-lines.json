@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Blue Line",
+    "jsName": "blueLine",
+    "color": "blue",
+    "sublines": null
+  },
+  {
+    "name": "Commuter Rail",
+    "jsName": "commuterRail",
+    "color": "purple",
+    "sublines": [
+      {"name": "Commuter Rail (Fairmount Line)"},
+      {"name": "Commuter Rail (Fitchburg/South Acton Line)"},
+      {"name": "Commuter Rail (Framingham/Worcester Line)"},
+      {"name": "Commuter Rail (Framingham/Worcester, Franklin, Needham, Providence/Stoughton)"},
+      {"name": "Commuter Rail (Franklin Line)"},
+      {"name": "Commuter Rail (Franklin, Providence/Stoughton)"},
+      {"name": "Commuter Rail (Needham, Franklin, Providence/Stoughton)"},
+      {"name": "Commuter Rail (Greenbush Line)"},
+      {"name": "Commuter Rail (Greenbush, Kingston/Plymouth, Middleborough/Lakeville)"},
+      {"name": "Commuter Rail (Haverhill Line)"},
+      {"name": "Commuter Rail (Lowell Line)"},
+      {"name": "Commuter Rail (Haverhill via Lowell)"},
+      {"name": "Commuter Rail (Needham Line)"},
+      {"name": "Commuter Rail (Newburyport, Rockport)"},
+      {"name": "Commuter Rail (Rockport)"},
+      {"name": "Commuter Rail (Newburyport)"},
+      {"name": "Commuter Rail (Providence, Stoughton)"},
+      {"name": "Commuter Rail (Providence, Stoughton)"},
+      {"name": "Commuter Rail (Stoughton)"},
+      {"name": "Commuter Rail (Kingston/Plymouth)"},
+      {"name": "Commuter Rail (Kingston/Plymouth, Middleborough/Lakeville)"},
+      {"name": "Commuter Rail (Middleborough/Lakeville)"}
+    ]
+  },
+  {
+    "name": "Green Line",
+    "jsName": "greenLine",
+    "color": "green",
+    "sublines": [
+      {"name": "Green Line Main"},
+      {"name": "Green Line B"},
+      {"name": "Green Line C"},
+      {"name": "Green Line D"},
+      {"name": "Green Line E"}
+    ]
+  },
+  {
+    "name": "Orange Line",
+    "jsName": "orangeLine",
+    "color": "orange",
+    "sublines": null
+  },
+  {
+    "name": "Red Line",
+    "jsName": "redLine",
+    "color": "red",
+    "sublines": [
+      {"name": "Red Line Main"},
+      {"name": "Red Line (Ashmont)"},
+      {"name": "Red Line (Mattapan)"},
+      {"name": "Red Line (Braintree)"}
+    ]
+  },
+  {
+    "name": "Silver Line",
+    "jsName": "silverLine",
+    "color": "silver",
+    "sublines": [
+      {"name": "Silver Line SL1"},
+      {"name": "Silver Line SL2"},
+      {"name": "Silver Line SL4"},
+      {"name": "Silver Line SL5"}
+    ]
+  }
+]
